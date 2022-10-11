@@ -1,0 +1,2 @@
+import{A as t}from"./index.d71edd95.js";import"./index.ec30388a.js";import"./iframe.1f917137.js";import"./index.e73f5126.js";import"./jsx-runtime.aa1ebdfa.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lobo4321.png",alt:"Joao Lobo"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.eb85b8d5.js.map
